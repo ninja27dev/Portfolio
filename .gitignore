@@ -1,0 +1,15 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Testing & Browser Profiles
+.chrome_test_profile*
+test_screenshot.png
+*.log
+
+# Editor & IDE artifacts
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace

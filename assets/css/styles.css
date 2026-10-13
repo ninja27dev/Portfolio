@@ -1255,6 +1255,7 @@ a.chip-item:hover {
 }
 
 .banner-unity { background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); }
+.banner-ninja { background: linear-gradient(135deg, #090e17 0%, #17253d 50%, #1e3c72 80%, #00f2fe 100%); }
 .banner-pasha { background: linear-gradient(135deg, #e65c00 0%, #f9d423 100%); }
 .banner-ml { background: linear-gradient(135deg, #ff416c 0%, #ff4b2b 100%); }
 .banner-blockchain { background: linear-gradient(135deg, #654ea3 0%, #eaafc8 100%); }

@@ -37,7 +37,17 @@ portfolio/
 
 ---
 
-## ✨ Features
+## 🎮 Featured Projects
+
+1. **[WHITE NINJA](https://github.com/ninja27dev/WHITE-NINJA)**: 3D action & stealth game built in Unity & C# featuring fluid ninja locomotion, wall-running, sensory enemy perception AI, and precision katana melee combat.
+2. **[Pasha Palli (पासा पल्ली)](https://github.com/ninja27dev/Pasha-Palli)**: Traditional Indian dice-pit board game reimagined as an offline-first PWA with bot AI, Web Audio SFX, and Android packaging.
+3. **[Mini Car Simulation](https://github.com/ninja27dev/MINI-CAR-SIMULATION-GAME-)**: High-fidelity virtual driving physics environment built in Unity with realistic suspension and tire mechanics.
+4. **[Palworld Pals Stats ML Analytics](https://github.com/ninja27dev/Palworld-Pals-Stats)**: Interactive data visualization dashboard built with Python, Dash, Plotly, and Pandas.
+5. **[Teacher Payout Smart Contract](https://github.com/ninja27dev/Teacher-Payout-Smart-Contract)**: Transparent automated milestone payment smart contract on the Stacks blockchain.
+
+---
+
+## ✨ Key Technical Features
 
 - **📱 100% Universal Layout**: Seamlessly adapts to smartphones (iPhone, Android, Foldables from 320px+), tablets, laptops, and ultra-wide desktop monitors.
 - **🍔 Mobile Navigation Drawer**: Smooth animated glassmorphism hamburger drawer with touch-optimized targets (44px+).
@@ -80,4 +90,4 @@ To view incoming contact messages:
 ---
 
 ## 📄 License
-Copyright under © 2026 Devesh Das
+MIT License © 2026 Devesh Das
