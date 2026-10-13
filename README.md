@@ -80,4 +80,4 @@ To view incoming contact messages:
 ---
 
 ## 📄 License
-MIT License © 2026 Devesh Das
+Copyright under © 2026 Devesh Das
